@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# SWE Article
+[Article: What Does a Software Engineer Do?](https://www.coursera.org/articles/software-engineer)
+
+I thought this article was interesting because they talk about the day to day tasks of what software engineers do. I like that there are many resources related to software engineering, such as how to become a SWE, certifications, and other useful information such as different career paths. 
